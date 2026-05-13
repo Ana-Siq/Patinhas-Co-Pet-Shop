@@ -57,7 +57,7 @@ function Planos() {
       </section>
 
       <section className="container mx-auto px-6 mb-10">
-        <div className="inline-flex p-1.5 bg-secondary rounded-full mx-auto block w-fit">
+        <div className="flex p-1.5 bg-secondary rounded-full mx-auto w-fit flex-wrap justify-center">
           {(Object.keys(cycleLabels) as Cycle[]).map((c) => (
             <button
               key={c}
