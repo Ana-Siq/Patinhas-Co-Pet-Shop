@@ -2,7 +2,7 @@
 
 Uma landing page moderna, acolhedora e responsiva para o **Patinhas & Co**, uma plataforma voltada para encontrar e reservar locais e acomodações aconchegantes ideais para você e seus pets.
 
-👉 [**Acesse o Preview do Projeto**](https://preview--snuggle-spots-site.lovable.app/?__lovable_sha=a4171d1b)
+👉 [**Acesse o Preview do Projeto**](https://snuggle-spots-site.lovable.app/)
 
 ---
 
